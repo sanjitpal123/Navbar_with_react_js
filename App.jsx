@@ -7,7 +7,7 @@ function App() {
     <>
       <div className="flex h-[100px] w-full justify-between items-center bg-blue-900 px-[10px]">
         <Headernam></Headernam>
-        <Item></Item> {/* capitalized component name */}
+        <Item></Item> {/* Capitalized component name */}
       </div>
     </>
   );
