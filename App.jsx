@@ -1,6 +1,6 @@
 import React from 'react';
 import Headernam from "./Header";
-import Item from "./Headeritem"; // Capitalized component name
+import Item from "./Headeritem"; // capitalized component name
 
 function App() {
   return (
